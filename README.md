@@ -1,8 +1,9 @@
-# 👋 Olá, eu sou o Arthur Markowicz Lopes
+# 👋 Olá, eu sou o Arthur Markowicz Lopes  
 
-🎯 **Desenvolvedor Back-End** com foco em **Java, Spring Boot, C# (.NET Core)** e **Python**.  
-Sou apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.  
-Busco sempre **evoluir tecnicamente**, enfrentar novos desafios e contribuir em **projetos reais de impacto**.
+🎯 **Desenvolvedor Back-End** apaixonado por criar **APIs REST seguras, escaláveis e bem estruturadas**.  
+Foco em **Java (Spring Boot)**, **C# (.NET Core)** e **Python**, aplicando **boas práticas de arquitetura e código limpo**.  
+
+🚀 Sempre buscando evoluir tecnicamente, aprender novas tecnologias e participar de **projetos reais de impacto**.
 
 ---
 
@@ -22,20 +23,26 @@ Busco sempre **evoluir tecnicamente**, enfrentar novos desafios e contribuir em 
 
 ---
 
-### 📈 Estatísticas do GitHub
-<div>
+### 💼 Projetos em Destaque  
+🔹 [**FinanCerto**](https://github.com/Arthur-MARKOWICZ/FinanCerto)  
+💰 API REST para controle financeiro pessoal com autenticação JWT e PostgreSQL.  
+> Stack: Spring Boot • JWT • PostgreSQL • Docker  
+
+🔹 [**Estoque Ágil**](https://github.com/Arthur-MARKOWICZ/Estoque_Agil)  
+📦 Sistema de controle de estoque com autenticação e persistência no MySQL.  
+> Stack: ASP.NET Core • JWT • MySQL  
+
+---
+
+### 📊 Estatísticas
+<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arthur-MARKOWICZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-MARKOWICZ&layout=compact&theme=radical"/>
 </div>
 
 ---
 
-### 💼 Projetos em destaque  
-🔹 [**FinanCerto**](https://github.com/Arthur-MARKOWICZ/FinanCerto) – API para controle financeiro pessoal (Spring Boot + JWT + Postgres)  
-🔹 [**Estoque_agil**](https://github.com/Arthur-MARKOWICZ/Estoque_Agil) – API para controle de estoque simples(Asp.Net Core + JWT + Mysql)  
----
-
-### 📫 Contato
+### 📫 Conecte-se comigo
 <div>
   <a href="mailto:arthurlopes25072005@email.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-markowicz-lopes"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -44,5 +51,6 @@ Busco sempre **evoluir tecnicamente**, enfrentar novos desafios e contribuir em 
 
 ---
 
+📍 *Focado em back-end, com visão fullstack para construir soluções completas.*  
 💡 *“Sempre aprendendo, sempre codando.”* 🚀  
-📍 *Focado em backend, mas com visão fullstack para construir soluções completas.*
+
